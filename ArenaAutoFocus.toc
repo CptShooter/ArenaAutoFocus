@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: ArenaAutoFocus
+## Notes: Auto edits macro with focus arena healer
+## Version: 0.1.0
+## Author: CptShooter
+
+ArenaAutoFocus.lua
